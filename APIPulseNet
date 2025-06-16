@@ -1,0 +1,22 @@
+
+---
+
+**APIPulseNet**  
+**Description:**  
+Continuously probes APIs and builds a pulse graph of response time and availability, designed for multi-endpoint monitoring.
+
+```markdown
+# APIPulseNet - API Response Pulse Tracker
+
+APIPulseNet captures real-time changes in availability and builds latency heatmaps to compare endpoint health over time.
+
+## Features
+- Endpoint health graphing  
+- Pulse and downtime alerts  
+- CSV and JSON exports
+
+## Usage
+```bash
+git clone https://github.com/your-username/APIPulseNet.git
+cd APIPulseNet
+python monitor.py
