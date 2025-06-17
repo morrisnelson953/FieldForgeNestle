@@ -1,0 +1,22 @@
+
+---
+
+**LogEchoSplice**  
+**Description:**  
+Splices together similar log segments to reveal echoed sequences and recurring block structures.
+
+```markdown
+# LogEchoSplice - Log Segment Repetition Detector
+
+LogEchoSplice finds near-identical log segments repeated across time or components to reveal faulty patterns.
+
+## Features
+- Log splice mapping  
+- Echo chain analysis  
+- Lightweight CLI tool
+
+## Usage
+```bash
+git clone https://github.com/your-username/LogEchoSplice.git
+cd LogEchoSplice
+python analyze.py
