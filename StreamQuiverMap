@@ -1,0 +1,22 @@
+
+---
+
+**StreamQuiverMap**  
+**Description:**  
+Visualizes incoming data as a quiver of directional arrows, each representing rate and vector of change.
+
+```markdown
+# StreamQuiverMap - Directional Change Visualizer
+
+StreamQuiverMap turns real-time numeric streams into animated arrows showing direction, strength, and flow.
+
+## Features
+- Real-time vector arrows  
+- Dynamic rate mapping  
+- Matplotlib animation
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamQuiverMap.git
+cd StreamQuiverMap
+python visualize.py
